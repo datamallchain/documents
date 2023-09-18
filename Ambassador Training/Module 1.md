@@ -14,7 +14,7 @@ This program is ongoing, allowing participants to join at their convenience. Onc
 
 We recognize and appreciate the efforts of those who work hard to complete their projects by awarding them badges. The highest level of achievement in the project is marked by a blue ribbon. The GAP program has two levels: GAP class & its project, and Foggie Badge Level as below:
 
-![Project levels](./Projects.png)
+![Project levels](./Projects.jpg)
 
 ## 1.1 Mission
 
@@ -110,10 +110,10 @@ Foggie, which is developed by Fog Works, is the application layer of DMC. Please
 1. Join DMC official discord https://discord.com/invite/dmcofficial
 
 2. Long press the blank space near the \#general channel till a pop-up window appears below as the picture on the right, click on the “invite”
-   ![](Module 1 media/Mobile invite link 1.png)![](Module 1 media/Mobile invite link 2.png)
+   ![](Module 1 media/Mobile invite link.png)!
 
 3. Click on "edit invite link" and set the link never expire and choose the ∞ to set the link use as no limit, turn on the temporary membership and then save the setting
-   ![](Module 1 media/Mobile invite link.png)![](Module 1 media/Mobile invite link 2.png)
+   ![](Module 1 media/Mobile invite link 2.png)!
 
 4. Click the “ copy link” and your link is on your clipboard, you can share the link to your friends
    ![](Module 1 media/Mobile invite link 3.png)

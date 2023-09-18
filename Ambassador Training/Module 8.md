@@ -14,7 +14,7 @@ This program is ongoing, allowing participants to join at their convenience. Onc
 
 We recognize and appreciate the efforts of those who work hard to complete their projects by awarding them badges. The highest level of achievement in the project is marked by a blue ribbon.The GAP program has two levels: GAP class & its project, and Foggie Badge Level as below:
 
-![Project levels](./Projects.png)
+![Project levels](./Projects.jpg)
 
 ## 8.1 Lecture
 
