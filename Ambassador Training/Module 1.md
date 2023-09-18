@@ -1,6 +1,6 @@
 DMC Ambassador Training
 
-## Module 1—Getting on Board
+# Module 1—Getting on Board
 
 <img alt="DMC Ambassador Training" style="height: 300px" src="./Main.png">
 

@@ -1,4 +1,4 @@
-**DMC Ambassador Training
+DMC Ambassador Training
 
 # Module 6—Mechanisms & Storage Challenge
 
